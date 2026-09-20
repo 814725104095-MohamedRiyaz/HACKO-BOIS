@@ -1,0 +1,8 @@
+{
+  "name": "Privexa AI",
+  "description": "Privexa AI - Intelligent sensitive data detection, risk scoring, token masking, and secure sharing system for organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
